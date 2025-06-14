@@ -1,0 +1,25 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "this is namaste react ",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "prasanna",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4",
+    "postcss": "^8.5.5",
+    "tailwindcss": "^3.4.17"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.1"
+  },
+  "browsersList": [
+    "last 2  versions"
+  ]
+}
