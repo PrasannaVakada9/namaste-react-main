@@ -2,7 +2,7 @@ import React from 'react'
 import ItemList from './ItemList';
 
 const RestaurantCategory = ({data}) => {
-    console.log(data, 'data');
+   
     
   return (
     <div>
